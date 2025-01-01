@@ -1,63 +1,104 @@
-# ChatGPT订阅提示无法验证支付方式，如何解决？
+# 如何获取代理 IP 地址（分步指南）
 
-在订阅ChatGPT Plus时，有时候会出现以下报错：
+## 目录
+- [什么是代理 IP 地址？](#什么是代理-ip-地址)
+- [如何获取代理 IP 地址](#如何获取代理-ip-地址)
+- [在哪里可以找到我的代理 IP 详情？](#在哪里可以找到我的代理-ip-详情)
+- [如何设置代理 IP 地址？](#如何设置代理-ip-地址)
+- [总结：如何获取代理 IP 地址](#总结如何获取代理-ip-地址)
+- [常见问题解答](#常见问题解答)
 
-> We are unable to authenticate your payment method.  
-> 无法验证您的支付方式。
-> 
-![image](https://github.com/nilahaag/ChatGPT/assets/169967478/9cae95cc-f75b-4328-8b7e-0a0956aece51)
+---
 
+全球 197 个国家超过 2000 万个住宅 IP，提供不受限制的速度和流量。精确定位到城市和 ISP 级别，高度匿名的住宅代理，让您轻松绕过各类封锁。99.99% 的稳定性，非常适合需要长时间稳定使用的项目。  
+👉 [立即获取代理 IP](https://bit.ly/proxy-seller-coupon)
 
-## 一、解决无法验证支付方式的方法
+---
 
-出现“unable to authenticate”错误，基本上是因为当前的代理IP使用人数过多，导致IP被Stripe风控，拒绝支付。
+## 什么是代理 IP 地址？
 
-### 解决方案：
+在了解如何设置代理 IP 之前，首先需要清楚代理 IP 地址是什么。
 
-1. **切换代理节点**：打开谷歌浏览器无痕模式，再尝试验证一次。
-2. **联系Fomepay客服**：如果切换代理节点无效，直接联系[Fomepay客服](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)，提供ChatGPT付款页面URL，让客服帮忙进行绑定，成功率接近100%。
+当您浏览互联网时，您使用的是专属 IP 地址，其格式通常如下：`192.168.123.132`。通过此 IP 地址，网站可以追踪到您的位置。
 
-![image](https://github.com/nilahaag/ChatGPT/assets/169967478/3facab32-7402-439c-b2bf-74011f78d199)
+代理 IP 地址类似于一个虚拟 IP，允许您选择任意国家或地区的 IP 地址。这意味着您可以以该地区的身份访问互联网，非常适合访问地域限制内容或提高匿名性。
 
-## 二、如何让客服协助绑定ChatGPT Plus/GPT-4
+---
 
-无需提供OpenAI的账户名和密码，安全迅捷。
+## 如何获取代理 IP 地址
 
-### 步骤1：登录chat.openai.com
+想要获取代理 IP 地址？以下是简单的步骤：
 
-依次点击`Login`，输入邮箱和密码。
+1. **选择可靠的代理提供商**  
+   推荐使用 [Proxy-Seller](https://bit.ly/proxy-seller-coupon)。它提供高质量的服务和全球范围内的代理 IP，并且操作简单、价格实惠。
 
-![image](https://github.com/nilahaag/ChatGPT/assets/169967478/fbc23db7-4310-47d5-9ca7-eb615add2474)
+2. **创建账户并登录**  
+   前往 [Proxy-Seller 官网](https://bit.ly/proxy-seller-coupon)，点击右上角的“登录”，然后注册账户。
 
+3. **选择代理类型和位置**  
+   登录后，选择所需的代理类型（例如 IPv4 或住宅代理）以及目标国家/地区，例如美国。
 
-### 步骤2：点击升级Upgrade
+4. **订购代理**  
+   根据需要选择代理数量和租期（建议 12 个月以获取更优惠的价格）。填写用途、租赁时长等信息，选择支付方式（支持 PayPal、Visa、MasterCard），完成订单即可。
 
-登录自己的OpenAI帐户后，点击左下角的`Upgrade to Plus`，在弹窗中选择`Upgrade plan`。
+5. **获取优惠折扣**  
+   使用优惠码 **WQMKYZ_888908** 可享受更多折扣。
 
-如果升级入口无法点击，访问这个网址：[https://chat.openai.com/invite/accepted](https://chat.openai.com/invite/accepted)
+---
 
-![image](https://github.com/nilahaag/ChatGPT/assets/169967478/e8ad5cf7-7e7e-465a-8bb6-8421ed97d4b1)
+## 在哪里可以找到我的代理 IP 详情？
 
+购买完成后，代理 IP 的详细信息会发送到您的注册邮箱，同时也可以在 Proxy-Seller 账户的“订单”页面查看。
 
-### 步骤3：复制支付页面URL
+1. 登录您的 Proxy-Seller 账户。
+2. 点击右上角的“订单”。
+3. 查找最近购买的代理 IP 订单，复制相关信息并妥善保存。
 
-在支付页面，复制现在的付款页网址URL，这一段以pay.openai.com开头的全部URL，发送给客服，要求绑定。
+---
 
-确保没有在这个页面点击过任何按钮，如果点击过，请返回上一步，重新进入这个页面再复制网址。
+## 如何设置代理 IP 地址？
 
-![image](https://github.com/nilahaag/ChatGPT/assets/169967478/34958653-79a3-42df-98db-c0ab57e660af)
+有了代理 IP 信息后，您可以通过以下步骤设置：
 
+1. **下载并安装 Gologin 浏览器**  
+   前往 [Gologin 官网](https://gologin.com/)，注册免费账户并下载浏览器。安装完成后，登录账户。
 
-### 步骤4：提供卡片信息
+2. **创建新配置文件**  
+   打开 Gologin，点击“新建配置文件”，然后选择“代理设置”。
 
-在CVC安全码中心复制完整卡片信息（或者截图）发送给客服。
+3. **输入代理信息**  
+   填写从 Proxy-Seller 获取的代理 IP 地址、端口号、登录名和密码。点击“检查代理”确认代理工作正常后，保存配置。
 
+4. **启用代理**  
+   在 Gologin 中运行新配置文件，打开浏览器，您现在即可使用代理 IP 浏览互联网。
 
-### 步骤5：等待订阅完成
+---
 
-等待客服通知操作完成即可解锁GPT-4，一般只需1分钟左右。如果客服忙线，可能需要稍作等待。
+## 总结：如何获取代理 IP 地址
 
-![image](https://github.com/nilahaag/ChatGPT/assets/169967478/bc4de650-0750-48d9-92d3-a62b6f87e5d5)
+通过以上步骤，您可以轻松获取并设置代理 IP 地址。这不仅能保护隐私，还能突破地域限制，访问更多内容。每当需要使用代理时，只需打开 Gologin 并运行配置文件即可。
 
+想要更新或续订代理服务？前往 [Proxy-Seller 官网](https://bit.ly/proxy-seller-coupon) 登录账户即可。
 
+---
 
+## 常见问题解答
+
+### 什么是开放代理 IP 地址？
+开放代理用于虚拟专用网络（VPN），帮助用户隐藏 IP 地址，防止数据泄露。它能在您浏览互联网时提供额外的安全性。
+
+### 如何查找代理 IP 地址？
+1. 点击电脑左下角的“开始”按钮。  
+2. 搜索“控制面板”。  
+3. 打开“互联网选项”。  
+4. 进入“连接”选项卡 > 局域网（LAN）设置，即可查看代理服务器信息。
+
+### Proxy-Seller 是否提供静态 IP？
+是的，Proxy-Seller 提供专属静态 IP，确保您始终使用同一个 IP 地址。
+
+### Gologin 浏览器是否免费？
+是的，Gologin 提供免费计划，允许创建 3 个配置文件，并为每个配置文件连接不同的代理 IP。
+
+---
+
+更多关于全球顶级代理服务的信息，请访问 [Proxy-Seller 官网](https://bit.ly/proxy-seller-coupon)。
